@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "phaser": "^3.60.0"
+  },
+  "scripts": {
+    "build": "npx webpack --config webpack.config.js"
+  },
+  "devDependencies": {
+    "path": "^0.12.7",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
